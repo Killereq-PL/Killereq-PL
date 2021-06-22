@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Killereq-PL
+- 👀 I’m interested in game developing
+- 🌱 I’m currently learning Python programming language
+- 💞️ I’m looking to collaborate on my game
